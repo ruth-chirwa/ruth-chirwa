@@ -1,4 +1,3 @@
-### Hi there 👋
 
 # 💫 About Me:
 👋Hi, I’m @ruth-chirwa<br>👀 I’m interested in software development and web development<br>🌱 I’m currently learning javascript<br>💞️ I’m looking to collaborate on buidling websites and web applications<br>📫 How to reach me on chirwaruth647@gmail.com/ +265888028800<br>🤔 I’m looking for help with JavaScript<br>❤️ I love coding<br>⚡ Fun fact: I love to learn and read books.
