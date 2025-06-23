@@ -1,7 +1,37 @@
+## 👋 Hi there! I'm Ruth Chirwa  
+**Aspiring Full-Stack Developer & UI/UX Designer**  
+Exploring the intersection of design and development to build meaningful digital experiences.
 
-# 💫 About Me:
->
-👋 Hello! I’m Ruth<br><br>I’m an aspiring software developer and UI/UX designer, excitedly exploring the tech world and sharing my learning journey along the way. With a passion for technology and creativity, I’m diving into coding and design, eager to grow and contribute.<br><br>🚀 My Journey:<br>Currently, I’m immersing myself in the fundamentals of software development and UI/UX design. This is an exciting phase of discovery and growth, and I’m committed to building a strong foundation in both areas.<br><br>💡 What I’m Doing:<br>Learning to Code: Delving into programming concepts, experimenting with different languages, and working on personal projects to gain hands-on experience.<br>Exploring UI/UX Design: Studying design principles, creating prototypes, and learning how to craft user-centered experiences that are both functional and visually appealing.<br>Documenting My Journey: Sharing my progress, challenges, and insights on GitHub. I believe in learning openly and contributing to the community by providing resources and reflections on my experiences.<br><br>🌟 Goals & Aspirations:<br>Skill Development: Building a solid foundation in coding and design, with a focus on continuous learning and improvement.<br>Creating Solutions: Working on projects that allow me to apply what I’m learning and explore new ideas.<br>Connecting & Collaborating: Excited to connect with others in the tech community, collaborate on projects, and learn from experienced professionals.<br>Feel free to explore my repositories to see what I’m working on, and don’t hesitate to reach out if you have any advice, opportunities, or just want to chat about technology!
+---
+
+### 🚀 About Me
+I'm currently diving into **full-stack development** while continuing to explore **UI/UX design**. I’m passionate about creating user-friendly, visually appealing, and functional web applications that make a difference.
+
+---
+
+### 💻 What I’m Learning & Building
+- 🐍 Python, JavaScript, and the fundamentals of web development  
+- 🌐 Frontend: HTML, CSS, JavaScript, and responsive design  
+- 🧠 Backend: Learning databases, APIs, and server-side development  
+- 🎨 UI/UX: Wireframing, prototyping, and user research  
+- 🛠️ Ongoing projects that bring design and code together
+
+---
+
+### 🌟 My Goals
+- Build solid, production-ready full-stack projects  
+- Master frameworks like **Django**, **Flask**, or **React**  
+- Contribute to open-source and collaborate with other devs  
+- Grow into a **Junior Full-Stack Developer** or **UX Engineer**
+
+---
+
+### 📢 Let’s Connect!
+I’m documenting my learning journey here on GitHub — feel free to check out my repos, share feedback, or connect!
+
+> 🔗 [LinkedIn](https://www.linkedin.com/in/ruth-chirwa-a28779252)  
+
+
 
 
 # 💻 Tech Stack:
