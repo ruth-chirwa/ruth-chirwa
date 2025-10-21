@@ -1,14 +1,14 @@
-## 👋 Hi there! I'm Ruth Chirwa  
-**Aspiring Full-Stack Developer & UI/UX Designer**  
-Exploring the intersection of design and development to build meaningful digital experiences.
+# 🌸 Ruth Chirwa  
+### 💻 Software Engineer • 🪄 Fullstack Developer • ☕ Debugging Princess  
+
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding-girl.gif" width="300" align="right" alt="anime girl coding gif"/>
+
+Konnichiwa! 👋 I’m **Ruth**, a passionate software engineer who blends logic, creativity, and a little bit of ✨magic✨ to build efficient and beautiful systems.  
+
+Currently crafting backends with **Python (Flask, FastAPI, Django)** and experimenting with **React & TypeScript** on the frontend.  
+When I’m not coding, you’ll find me sipping coffee, sketching UI ideas, or debugging like it’s a boss fight. ⚔️  
 
 ---
-
-### 🚀 About Me
-I'm currently diving into **full-stack development** while continuing to explore **UI/UX design**. I’m passionate about creating user-friendly, visually appealing, and functional web applications that make a difference.
-
----
-
 ### 💻 What I’m Learning & Building
 - 🐍 Python, JavaScript, and the fundamentals of web development  
 - 🌐 Frontend: HTML, CSS, JavaScript, and responsive design  
@@ -27,30 +27,69 @@ I'm currently diving into **full-stack development** while continuing to explore
 ---
 
 ### 📢 Let’s Connect!
-I’m documenting my learning journey here on GitHub — feel free to check out my repos, share feedback, or connect!
+I’m documenting my learning journey here on GitHub — feel free to check out my repos, share feedback, or connect!  
 
 > 🔗 [LinkedIn](https://www.linkedin.com/in/ruth-chirwa-a28779252)  
 
+---
 
+## 🧰 Tech Arsenal  
 
+```text
+💅 Frontend:   HTML | CSS | JavaScript | React | TypeScript
+🐍 Backend:    Python | Flask | Django | FastAPI
+🧩 Databases:  PostgreSQL | MongoDB | SQL
+⚙️ DevOps:     Linux | Git | Postman
+🧪 Testing:    Pytest 
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codeblue002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruth-chirwa-a28779252) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chirwaruth647) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lemonxx13) 
+## 💻 Tech Stack Badges 🌸
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff&color=FFC0CB)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=fff&color=E0BBE4)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=fff&color=F5C7B8)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff&color=D8BFD8)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=fff&color=FFB6C1)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff&color=E6A8FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=fff&color=F6D1C1)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff&color=F3C6E0)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff&color=E9D5FF)
 
-## 🏆 GitHub Trophies
+---
+
+## 🌈 What I’m Up To
+
+🪶 Reworking backend architectures (async all the things)  
+🔍 Writing cleaner, test-driven code  
+🧱 Building fullstack apps with a focus on performance  
+📖 Documenting code because future-me deserves better  
+
+---
+
+## 🌐✨ Find Me in the Real & Digital World ✨🌐
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codeblue002)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruth-chirwa-a28779252)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@chirwaruth647)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/lemonxx13)
+
+---
+
+## 🏆✨ GitHub Trophies – My Little Achievements ✨🏆
 ![](https://github-profile-trophy.vercel.app/?username=ruth-chirwa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-### 🔝 Top Contributed Repo
+### 🔝🌸 Top Contributed Repos 🌸
 ![](https://github-contributor-stats.vercel.app/api?username=ruth-chirwa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
+### ✍️💌 Random Dev Quote ✨
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ruth-chirwa&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![](https://visitcount.itsvg.in/api?id=ruth-chirwa&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)  
+
+---
+### 💖 Thanks for visiting!
+
+*Let’s build something magical together ✨*  
