@@ -1,7 +1,7 @@
 # 🌸 Ruth Chirwa  
 ### 💻 Software Engineer • 🪄 Fullstack Developer • ☕ Debugging Princess  
 
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding-girl.gif" width="80%" height="400" align="center" alt="anime girl coding gif"/>
+<img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding-girl.gif" width="60%" align="center" alt="anime girl coding gif"/>
 
 👋 I’m **Ruth**, a passionate software engineer who blends logic, creativity, and a little bit of ✨magic✨ to build efficient and beautiful systems.  
 
