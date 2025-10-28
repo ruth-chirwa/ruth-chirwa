@@ -3,7 +3,7 @@
 
 <img src="https://media.tenor.com/2roX3uxz_68AAAAC/coding-girl.gif" width="300" align="right" alt="anime girl coding gif"/>
 
-Konnichiwa! 👋 I’m **Ruth**, a passionate software engineer who blends logic, creativity, and a little bit of ✨magic✨ to build efficient and beautiful systems.  
+👋 I’m **Ruth**, a passionate software engineer who blends logic, creativity, and a little bit of ✨magic✨ to build efficient and beautiful systems.  
 
 Currently crafting backends with **Python (Flask, FastAPI, Django)** and experimenting with **React & TypeScript** on the frontend.  
 When I’m not coding, you’ll find me sipping coffee, sketching UI ideas, or debugging like it’s a boss fight. ⚔️  
@@ -17,22 +17,6 @@ When I’m not coding, you’ll find me sipping coffee, sketching UI ideas, or d
 - 🛠️ Ongoing projects that bring design and code together
 
 ---
-
-### 🌟 My Goals
-- Build solid, production-ready full-stack projects  
-- Master frameworks like **Django**, **Flask**, or **React**  
-- Contribute to open-source and collaborate with other devs  
-- Grow into a **Junior Full-Stack Developer** or **UX Engineer**
-
----
-
-### 📢 Let’s Connect!
-I’m documenting my learning journey here on GitHub — feel free to check out my repos, share feedback, or connect!  
-
-> 🔗 [LinkedIn](https://www.linkedin.com/in/ruth-chirwa-a28779252)  
-
----
-
 ## 🧰 Tech Arsenal  
 
 ```text
@@ -76,18 +60,8 @@ I’m documenting my learning journey here on GitHub — feel free to check out 
 
 ---
 
-## 🏆✨ GitHub Trophies – My Little Achievements ✨🏆
-![](https://github-profile-trophy.vercel.app/?username=ruth-chirwa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝🌸 Top Contributed Repos 🌸
-![](https://github-contributor-stats.vercel.app/api?username=ruth-chirwa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### ✍️💌 Random Dev Quote ✨
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ruth-chirwa&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)  
 
 ---
 ### 💖 Thanks for visiting!
