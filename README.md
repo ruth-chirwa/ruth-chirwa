@@ -3,12 +3,12 @@
 
 I design and build full-stack systems — from backend services and APIs in **Python** to clean, user-focused interfaces with **React & TypeScript**.
 
-**Current focus**
+## **Current focus**
 - Full-stack application development
 - Backend services, APIs, and databases
 - System design and performance-conscious architectures
 
-**Tech**
+### **Tech**
 Python · JavaScript · React · TypeScript · Flask · FastAPI · Django · PostgreSQL · MongoDB · Linux · Git
 
 📫 **Find me**
